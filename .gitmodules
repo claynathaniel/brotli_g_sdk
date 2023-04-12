@@ -1,0 +1,3 @@
+[submodule "external/vkd3d"]
+	path = external/vkd3d
+	url = https://github.com/claynathaniel/vkd3d.git
